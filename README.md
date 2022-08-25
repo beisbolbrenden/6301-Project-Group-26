@@ -81,5 +81,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ### Ethical Considerations
 
-
+* Potential Negative Impacts of Model- 
+* Potential Uncertainties of Model- 
+* Unexpected Results- 
 
