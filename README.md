@@ -79,7 +79,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ![iteration plot 2](https://user-images.githubusercontent.com/111528985/186750922-9d3b59c7-07d5-443d-a5cc-cd1ce32bcbb2.png)
 
 
-
+### Ethical Considerations
 
 
 
