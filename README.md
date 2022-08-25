@@ -64,6 +64,8 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ```
 ### Quantitative Analysis
 
+
 #### Correlation Heatmap
+![heatmap](https://user-images.githubusercontent.com/111528985/186749712-2a383217-aa9d-4e53-92ab-71e203a34bee.png)
 
 
