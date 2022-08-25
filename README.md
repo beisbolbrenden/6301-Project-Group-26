@@ -5,10 +5,10 @@
 ### Basic Information
 
 * **Person or organization developing model**: 
-*  - Brenden Moore, `brendenmoore@gwu.edu` 
-*  - Pavneet Singh, `pavneet@gwu.edu`
-*  - Sai Chaithanya Vadakattu, `saichaithanya.vadakattu@gwu.edu`
-*  - Bader Albaarrak, `bader.albaarrak@gwu.edu`
+   - Brenden Moore, `brendenmoore@gwu.edu` 
+   - Pavneet Singh, `pavneet@gwu.edu`
+   - Sai Chaithanya Vadakattu, `saichaithanya.vadakattu@gwu.edu`
+   - Bader Albaarrak, `bader.albaarrak@gwu.edu`
 * **Model date**: August 28, 2022
 * **Model version**: 1.0
 * **License**: MIT
@@ -79,9 +79,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 ![iteration plot 2](https://user-images.githubusercontent.com/111528985/186750922-9d3b59c7-07d5-443d-a5cc-cd1ce32bcbb2.png)
 
 
-### Ethical Considerations
 
-* Potential Negative Impacts of Model- 
-* Potential Uncertainties of Model- 
-* Unexpected Results- 
+
+
 
