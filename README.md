@@ -4,7 +4,11 @@
 
 ### Basic Information
 
-* **Person or organization developing model**: Brenden Moore, `brendenmoore@gwu.edu`, Pavneet Singh, `pavneet@gwu.edu`, Sai Chaithanya Vadakattu, `saichaithanya.vadakattu@gwu.edu`, Bader Albaarrak, `bader.albaarrak@gwu.edu`
+* **Person or organization developing model**: 
+* Brenden Moore, `brendenmoore@gwu.edu` 
+* Pavneet Singh, `pavneet@gwu.edu`
+* Sai Chaithanya Vadakattu, `saichaithanya.vadakattu@gwu.edu`
+* Bader Albaarrak, `bader.albaarrak@gwu.edu`
 * **Model date**: August 28, 2022
 * **Model version**: 1.0
 * **License**: MIT
