@@ -74,7 +74,7 @@ DecisionTreeClassifier(ccp_alpha=0.0, class_weight=None, criterion='gini',
 
 ![iteration plot](https://user-images.githubusercontent.com/111528985/186750717-67c8d6f3-65ac-45ac-ae99-c1b7d9ea8029.png)
 
-* The graph shows that till the tree depth 6, the graph line of Training AUC and Validation AUC have little error which is feasible model. As the tree depth increases then the error is increasing and both the curves are having more deviation.
+* The iteration graph shows that till the tree depth 6, the graph line of Training AUC and Validation AUC have little error which is feasible model. As the tree depth increases then the error is increasing and both the curves are having more deviation.
 
 ![variable importance](https://user-images.githubusercontent.com/111528985/186750828-b5d82249-9db2-405f-91ad-4e4f1e0f1540.png)
 
