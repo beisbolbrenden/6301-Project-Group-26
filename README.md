@@ -89,7 +89,9 @@
 
 ### Ethical Considerations 
 * Potential Negative Impacts 
-   - Math or software problems
+   - Math or software problems:
+      - Google Collaborate has questions regarding privacy, but only users with permission to view/edit the file can use it
+      - With a large reputation to uphold, Google has invested heavily into making their Open Source software safe and private
    - Real-world risks: who, what, when or how
 
 * Potential Uncertainties
