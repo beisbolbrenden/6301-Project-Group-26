@@ -81,7 +81,7 @@
 * Whiter color in the correlation heatmap represents that the variables are positively correlated.
 Darker colors represent that variables are negetively correlated that is if one variable value goes up, other variable value will go down
 
-* The heatmat represents the correlation between the race and outcome and this is a ethical issue of the data provided
+* The heatmap represents the correlation between the race and outcome and this is a ethical issue of the data provided
 
 ![iteration plot](https://user-images.githubusercontent.com/111528985/186750717-67c8d6f3-65ac-45ac-ae99-c1b7d9ea8029.png)
 
