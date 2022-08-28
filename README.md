@@ -92,13 +92,17 @@
    - Math or software problems:
       - Google Collaborate has questions regarding privacy, but only users with permission to view/edit the file can use it
       - With a large reputation to uphold, Google has invested heavily into making their Open Source software safe and private
+      - Possibility of data points either being missing, misinterpreted, or purposely altered
+      - Thousands of possible data set combinations lead to questions about output validity and optimacy 
    - Real-world risks: who, what, when or how
+      - Data set relies heavily on September data 
 
 * Potential Uncertainties
    - Math or software problems
    - Real-world risks: who, what, when or how
       - With a data set that centers around demographical data, uncertainties around implicit biases arise
       - Each population should be treated fairly, and when it comes to decision making, a person should not be approved or denied based on the previous actions of people of the similar demographic
+      - 
 * Unexpected Results 
 
 
