@@ -110,5 +110,5 @@ Darker colors represent that variables are negetively correlated that is if one 
       - Each population should be treated fairly, and when it comes to decision making, a person should not be approved or denied based on the previous actions of people of the similar demographic
       - 
 * Unexpected Results 
-
+     - The data outcome is heavily correlated to race
 
