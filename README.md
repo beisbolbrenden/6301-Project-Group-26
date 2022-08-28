@@ -78,6 +78,11 @@
 #### Correlation Heatmap
 ![heatmap](https://user-images.githubusercontent.com/111528985/186749712-2a383217-aa9d-4e53-92ab-71e203a34bee.png)
 
+* Whiter color in the correlation heatmap represents that the variables are positively correlated.
+Darker colors represent that variables are negetively correlated that is if one variable value goes up, other variable value will go down
+
+* The heatmat represents the correlation between the race and outcome and this is a ethical issue of the data provided
+
 ![iteration plot](https://user-images.githubusercontent.com/111528985/186750717-67c8d6f3-65ac-45ac-ae99-c1b7d9ea8029.png)
 
 * The iteration graph shows that till the tree depth 6, the graph line of Training AUC and Validation AUC have little error which is feasible model. As the tree depth increases then the error is increasing and both the curves are having more deviation.
@@ -96,6 +101,7 @@
       - Thousands of possible data set combinations lead to questions about output validity and optimacy 
    - Real-world risks: who, what, when or how
       - Data set relies heavily on September data 
+      - The data outcome is heavily correlated to race
 
 * Potential Uncertainties
    - Math or software problems
