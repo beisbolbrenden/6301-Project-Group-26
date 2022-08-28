@@ -91,6 +91,7 @@ Darker colors represent that variables are negetively correlated that is if one 
 
 ![iteration plot 2](https://user-images.githubusercontent.com/111528985/186750922-9d3b59c7-07d5-443d-a5cc-cd1ce32bcbb2.png)
 
+* The image shows three graphical lines- Training AUC, Validation AUC and Hispanic-to-white AIR. The training auc line increases to one as the as the decision tree depth gets more complex. The validation auc is useful for finding the number of decision trees to be used for the decision model. Hispanic-to-White AIR line graph is picked since it is the lowest fairness measure. The Hispanic-to-white AIR is up above 0.8 at the tree depth of 6. In terms of fairness and accuracy, the decision tree depth at 6 is feasible model.
 
 ### Ethical Considerations 
 * Potential Negative Impacts 
